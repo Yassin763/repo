@@ -4,7 +4,7 @@
     "id": 1,
     "name": "Book",
     "price": 10.99,
-    "imgUrl": "https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop"
+    "imgUrl": "https://fastly.picsum.photos/id/20/3670/2462.jpg?hmac=CmQ0ln-k5ZqkdtLvVO23LjVAEabZQx2wOaT4pyeG10I"
   },
   {
     "id": 2,
@@ -27,4 +27,5 @@
 ]
 
 }
+
 
