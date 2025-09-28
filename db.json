@@ -1,4 +1,5 @@
-[
+{
+  "items" : [
   {
     "id": 1,
     "name": "Book",
@@ -9,19 +10,19 @@
     "id": 2,
     "name": "Computer",
     "price": 1199,
-    "imgUrl": "https://picsum.photos/id/180/300/200"
+    "imgUrl": "../public/imgs/computer.jpg"
   },
   {
     "id": 3,
     "name": "Banana",
     "price": 1.05,
-    "imgUrl": "https://picsum.photos/id/292/300/200"
+    "imgUrl": "../public/imgs/banana.jpg"
   },
   {
     "id": 4,
     "name": "Car",
     "price": 14000,
-    "imgUrl": "https://picsum.photos/id/1074/300/200"
+    "imgUrl": "../public/imgs/car.jpg"
   }
 ]
-
+}
