@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Book",
     "price": 10.99,
-    "imgUrl": "https://picsum.photos/id/100/300/200"
+    "imgUrl": "/imgs/book.jpg"
   },
   {
     "id": 2,
@@ -24,3 +24,4 @@
     "imgUrl": "https://picsum.photos/id/1074/300/200"
   }
 ]
+
