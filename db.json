@@ -4,7 +4,7 @@
     "id": 1,
     "name": "Book",
     "price": 10.99,
-    "imgUrl": "./imgs/book.jpg"
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDGvjdlFv0yha0VI_PUgPrtnlfZETuKRA5ZQ&s"
   },
   {
     "id": 2,
@@ -26,4 +26,5 @@
   }
 ]
 }
+
 
